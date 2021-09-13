@@ -32,7 +32,7 @@ CREATE TABLE `users` (
   `email` varchar(255) NOT NULL,
   `password` varchar(255) NOT NULL,
   `name` varchar(255) NOT NULL,
-  `photo` varchar(255) NOT NULL DEFAULT 'default.svg'
+  `photo` varchar(255) NOT NULL DEFAULT 'https://rizkym71338.github.io/img/img1.jpg'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
